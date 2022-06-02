@@ -1,0 +1,23 @@
+{
+  "name": "home-work1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sla6ak/goit-nodejs-hw-01.git"
+  },
+  "author": "slabak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sla6ak/goit-nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/sla6ak/goit-nodejs-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
